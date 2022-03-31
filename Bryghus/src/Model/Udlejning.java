@@ -42,4 +42,5 @@ public class Udlejning extends Ordre {
     public double samletOrdrePris() {
         return super.samletOrdrePris() - pant;
     }
+    //det virker måske
 }
